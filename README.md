@@ -1,4 +1,4 @@
-# Docker Pyppeter
+# Docker Pyppeteer
 
 A Docker + Python base image for running Pyppeteer scripts.
 
